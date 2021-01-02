@@ -1,5 +1,5 @@
 <div class="input-group">
-	<input class="form-control py-2 border-right-0 border" type="text" id="searchBar" onkeyup="filterShadows()" placeholder="Search for shadows by name, description, personality etc.." title="Type in a shadow">
+	<input class="form-control py-2 border-right-0 border" type="search" id="searchBar" onkeyup="filterShadows()" placeholder="Search for shadows by name, description, personality etc.." title="Type in a shadow">
 	<span class="input-group-append">
 		<div class="input-group-text bg-transparent"><i class="fa fa-search"></i></div>
 	</span>

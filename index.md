@@ -3,7 +3,7 @@
 
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 3" class="input-group">
-		<input class="form-control py-2 border-right-0 border" type="text" id="searchBar" onkeyup="filterQuestions()" placeholder="Search for questions or responses.." title="Type in a question or response">
+		<input class="form-control py-2 border-right-0 border" type="search" id="searchBar" onkeyup="filterQuestions()" placeholder="Search for questions or responses.." title="Type in a question or response">
 		<span class="input-group-append">
 			<div class="input-group-text bg-transparent"><i class="fa fa-search"></i></div>
 		</span>
